@@ -1,1 +1,1 @@
-This is a Order System in C#.
+Sample Order System in C#.
