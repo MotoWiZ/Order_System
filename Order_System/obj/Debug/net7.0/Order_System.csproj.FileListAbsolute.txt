@@ -1,0 +1,15 @@
+D:\VSCode\Order System\Order_System\Order_System\bin\Debug\net7.0\Order_System.exe
+D:\VSCode\Order System\Order_System\Order_System\bin\Debug\net7.0\Order_System.deps.json
+D:\VSCode\Order System\Order_System\Order_System\bin\Debug\net7.0\Order_System.runtimeconfig.json
+D:\VSCode\Order System\Order_System\Order_System\bin\Debug\net7.0\Order_System.dll
+D:\VSCode\Order System\Order_System\Order_System\bin\Debug\net7.0\Order_System.pdb
+D:\VSCode\Order System\Order_System\Order_System\obj\Debug\net7.0\Order_System.csproj.AssemblyReference.cache
+D:\VSCode\Order System\Order_System\Order_System\obj\Debug\net7.0\Order_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCode\Order System\Order_System\Order_System\obj\Debug\net7.0\Order_System.AssemblyInfoInputs.cache
+D:\VSCode\Order System\Order_System\Order_System\obj\Debug\net7.0\Order_System.AssemblyInfo.cs
+D:\VSCode\Order System\Order_System\Order_System\obj\Debug\net7.0\Order_System.csproj.CoreCompileInputs.cache
+D:\VSCode\Order System\Order_System\Order_System\obj\Debug\net7.0\Order_System.dll
+D:\VSCode\Order System\Order_System\Order_System\obj\Debug\net7.0\refint\Order_System.dll
+D:\VSCode\Order System\Order_System\Order_System\obj\Debug\net7.0\Order_System.pdb
+D:\VSCode\Order System\Order_System\Order_System\obj\Debug\net7.0\Order_System.genruntimeconfig.cache
+D:\VSCode\Order System\Order_System\Order_System\obj\Debug\net7.0\ref\Order_System.dll
